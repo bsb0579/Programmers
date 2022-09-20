@@ -1,2 +1,2 @@
 # Programmers
-Programmers_Practice
+프로그래머스 연습
